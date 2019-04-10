@@ -1,0 +1,29 @@
+h1{
+	/*text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;*/
+
+	color: white;
+	font-family: 'Bitter', serif;
+	font-size: 50px;
+
+	color: black;
+	  -webkit-text-fill-color: white; 
+	  -webkit-text-stroke-width: 1px;
+	  -webkit-text-stroke-color: black;
+}
+p{
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+
+	color: white;
+	font-family: 'Merriweather', serif;
+	font-size: 35px;
+	margin-left: 60px;
+
+}
